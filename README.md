@@ -1,7 +1,8 @@
 
-[PRK Firmware Advent Calendar 2021](https://adventar.org/calendars/7086)
-8日目の枠が開いていたので投稿いたします。
-キーマップを書くにあたってキーコードを一覧できるものが欲しくなったので作りました。8日現在、0.9.7のものです。
+[PRK Firmware Advent Calendar 2021](https://adventar.org/calendars/7086)  
+キーマップを書くにあたってキーコードを一覧できるものが欲しくなったので作りました。
+8日目が開いていたのでみなさん本格的な記事の中恐縮ですが投稿いたします！
+0.9.7のものです。  
 
 KC_LCTL: 左CTRL  
 KC_LSFT: 左SHIFT  
@@ -146,16 +147,16 @@ KC_TILD: ~
 KC_LABK: <  
 KC_RABK: >  
 KC_QUES: ?  
-RGB_TOG:   
-RGB_MODE_FORWARD:   
-RGB_MOD:   
-RGB_MODE_REVERSE
-RGB_RMOD:    
-RGB_HUI:    
-RGB_HUD:   
-RGB_SAI:   
-RGB_SAD:   
-RGB_VAI:   
-RGB_VAD:   
-RGB_SPI:   
-RGB_SPD:   
+RGB_TOG: RGBオン/オフ  
+RGB_MODE_FORWARD: 次の発光パターン  
+RGB_MOD: 次の発光パターン  
+RGB_MODE_REVERSE: 前の発光パターン
+RGB_RMOD: 前の発光パターン   
+RGB_HUI: 色相↑   
+RGB_HUD: 色相↓  
+RGB_SAI: 彩度↑  
+RGB_SAD: 彩度↓  
+RGB_VAI: 輝度↑  
+RGB_VAD: 輝度↓  
+RGB_SPI: 速度↑  
+RGB_SPD: 速度↓  
