@@ -1,5 +1,5 @@
 
-[PRK Firmware Advent Calendar 2021](https ://adventar.org/calendars/7086)  
+[PRK Firmware Advent Calendar 2021](https://adventar.org/calendars/7086)  
 キーマップを書くにあたってキーコードを一覧できるものが欲しくなったので作りました。  
 8日目が開いていたのでみなさん本格的な記事の中恐れ入りますが投稿いたします！  
 0.9.7のものです。  
