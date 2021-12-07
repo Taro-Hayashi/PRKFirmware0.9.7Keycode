@@ -1,24 +1,17 @@
 
 [PRK Firmware Advent Calendar 2021](https://adventar.org/calendars/7086)
-枠が開いていたので記事と言えないようなものですが便利かと思いまして投稿いたします！
-
-キーマップを書くにあたってキーコードを一覧できるものが欲しくなったので作りました。
-12/7現在のものです。keyboard.rbから抜きだし、QMKの記述から想像して内容を書いているので試していないキーもあります。
-ファームウェアが活発に更新されているので増えたり、逆に減ったりすると思います（だからこそドキュメントになっていないのでしょう）。
-MITライセンスですのでご自由にお使いください。
+8日目の枠が開いていたので投稿いたします。
+キーマップを書くにあたってキーコードを一覧できるものが欲しくなったので作りました。8日現在、0.9.7のものです。
 
 KC_LCTL: 左CTRL  
 KC_LSFT: 左SHIFT  
 KC_LALT: 左ALT  
-KC_LGUI: 左のWIN/CMD  f
+KC_LGUI: 左のWIN/CMD
 KC_RCTL: 右CTRL  
 KC_RSFT: 右SHIFT  
 KC_RALT: 右ALT  
 KC_RGUI: 右のWIN/CMD  
 KC_NO: キー割り当てなし  
-KC_ROLL_OVER:   
-KC_POST_FAIL:   
-KC_UNDEFINED:   
 KC_A:   
 KC_B:   
 KC_C:   
@@ -64,11 +57,11 @@ KC_MINUS: -
 KC_EQUAL: =  
 KC_LBRACKET: [  
 KC_RBRACKET: ]  
-KC_BSLASH: \  
-KC_NONUS_HASH:   
+KC_BSLASH: \|  
+KC_NONUS_HASH: \~  
 KC_SCOLON: ;  
 KC_QUOTE: '  
-KC_GRAVE:   
+KC_GRAVE: `  
 KC_COMMA: ,  
 KC_DOT: .  
 KC_SLASH: /  
@@ -115,9 +108,8 @@ KC_KP_8:
 KC_KP_9:   
 KC_KP_0:   
 KC_KP_DOT: .  
-KC_NONUS_BSLASH:   
-KC_APPLICATION:   
-KC_POWER:   
+KC_NONUS_BSLASH: \|  
+KC_APPLICATION: 右クリック  
 KC_KP_EQUAL: =  
 KC_F13:   
 KC_F14:   
@@ -130,72 +122,30 @@ KC_F20:
 KC_F21:   
 KC_F22:   
 KC_F23:   
-KC_F24:   
-KC_EXECUTE:   
-KC_HELP:   
-KC_MENU:   
-KC_SELECT:   
-KC_STOP:   
-KC_AGAIN:   
-KC_UNDO:   
-KC_CUT:   
-KC_COPY:   
-KC_PASTE:   
-KC_FIND:   
-KC_MUTE:   
-KC_VOLUP:   
-KC_VOLDOWN:   
-KC_INT1:   
-KC_INT2:   
-KC_INT3:   
-KC_INT4:   
-KC_INT5:   
-KC_INT6:   
-KC_INT7:   
-KC_INT8:   
-KC_INT9:   
-KC_LANG1:   
-KC_LANG2:   
-KC_LANG3:   
-KC_LANG4:   
-KC_LANG5:   
-KC_LANG6:   
-KC_LANG7:   
-KC_LANG8:   
-KC_LANG9:   
-KC_ALT_ERASE:   
-KC_SYSREQ:   
-KC_CANCEL:   
-KC_CLEAR:   
-KC_PRIOR:   
-KC_RETURN:   
-KC_SEPARATOR:   
-KC_OUT:   
-KC_OPER:   
-KC_CLEAR_AGAIN:   
-KC_CRSEL:   
-KC_EXSEL:   
-KC_EXLM:   
-KC_AT:   
-KC_HASH:   
-KC_DLR:    
-KC_PERC:   
-KC_CIRC:   
-KC_AMPR:    
-KC_ASTER:    
-KC_LPRN:    
-KC_RPRN:   
-KC_UNDS:   
-KC_PLUS:   
-KC_LCBR:   
-KC_RCBR:   
-KC_PIPE:    
-KC_COLON:   
-KC_DQUO:   
-KC_TILD:   
-KC_LABK:   
-KC_RABK:   
-KC_QUES:   
+KC_F24:     
+KC_LANG1: かな  
+KC_LANG2: 英数  
+KC_EXLM: !  
+KC_AT: @  
+KC_HASH: #  
+KC_DLR: $  
+KC_PERC: %  
+KC_CIRC: ^  
+KC_AMPR: &  
+KC_ASTER: *  
+KC_LPRN: (  
+KC_RPRN: )  
+KC_UNDS: _  
+KC_PLUS: +  
+KC_LCBR: {  
+KC_RCBR: }  
+KC_PIPE: |   
+KC_COLON: :  
+KC_DQUO: "  
+KC_TILD: ~  
+KC_LABK: <  
+KC_RABK: >  
+KC_QUES: ?  
 RGB_TOG:   
 RGB_MODE_FORWARD:   
 RGB_MOD:   
