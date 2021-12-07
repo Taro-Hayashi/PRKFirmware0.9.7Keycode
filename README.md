@@ -4,7 +4,7 @@
 8日目が開いていたので、みなさん本格的な記事の中恐れ入りますが投稿いたします。
 
 タップでスペース、ホールドでシフトのような組み合わせのキーは適当な名前のキーコード（SPC_SFTなど）をキーマップに書いてしまった後に  
-~~~kbd.define_mode_key :SPC_SFT,  [ :KC_SPACE, :KC_LSFT, 150, 150 ]~~~  
+~~~ kbd.define_mode_key :SPC_SFT,  [ :KC_SPACE, :KC_LSFT, 150, 150 ] ~~~  
 と定義するようです！宣言は要らないんですね。
 
 KC_LCTL : 左CTRL  
