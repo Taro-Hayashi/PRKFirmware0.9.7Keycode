@@ -153,7 +153,7 @@ KC_QUES : ?
 RGB_TOG : RGBオン/オフ  
 RGB_MODE_FORWARD : 次の発光パターン  
 RGB_MOD : 次の発光パターン  
-RGB_MODE_REVERSE : 前の発光パターン
+RGB_MODE_REVERSE : 前の発光パターン  
 RGB_RMOD : 前の発光パターン   
 RGB_HUI : 色相↑   
 RGB_HUD : 色相↓  
