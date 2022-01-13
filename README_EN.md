@@ -106,7 +106,7 @@ KC_KP_9 :
 KC_KP_0 :   
 KC_KP_DOT : .  
 KC_NONUS_BSLASH : \|  
-KC_APPLICATION : right click
+KC_APPLICATION : right click  
 KC_KP_EQUAL : =  
 KC_F13 :   
 KC_F14 :   
