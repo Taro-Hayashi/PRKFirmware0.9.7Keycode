@@ -8,7 +8,7 @@ KC_RCTL : right CTRL
 KC_RSFT : right SHIFT  
 KC_RALT : right ALT  
 KC_RGUI : right WIN/CMD  
-KC_NO : キー割り当てなし  
+KC_NO :   
 KC_A :   
 KC_B :   
 KC_C :   
