@@ -143,10 +143,10 @@ KC_TILD : ~
 KC_LABK : <  
 KC_RABK : >  
 KC_QUES : ?  
-RGB_TOG : Toggle RGB
+RGB_TOG : Toggle RGB  
 RGB_MODE_FORWARD :  
-RGB_MOD : 
-RGB_MODE_REVERSE : 
+RGB_MOD :  
+RGB_MODE_REVERSE :  
 RGB_RMOD :  
 RGB_HUI :   
 RGB_HUD :  
